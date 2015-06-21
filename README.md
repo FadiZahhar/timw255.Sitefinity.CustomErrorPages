@@ -2,6 +2,7 @@
 
 This is a custom module to enable user-configurable error pages in Sitefinity.
 
+See [a demo](https://youtu.be/nyT808ZmWeU) of it in action on YouTube (1:46)
 
 ## Installation
 
